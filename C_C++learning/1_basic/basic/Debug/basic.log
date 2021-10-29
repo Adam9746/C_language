@@ -1,0 +1,4 @@
+﻿  basiclearning.c
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\basic\basic\basiclearning.c(152,7): warning C4101: “cha”: 未引用的局部变量
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\basic\basic\basiclearning.c(153,8): warning C4101: “arr4”: 未引用的局部变量
+  basic.vcxproj -> E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\basic\Debug\basic.exe

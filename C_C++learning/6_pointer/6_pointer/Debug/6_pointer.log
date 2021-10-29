@@ -1,0 +1,6 @@
+﻿  pointer.c
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\6_pointer\6_pointer\pointer.c(65,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\6_pointer\6_pointer\pointer.c(79,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\6_pointer\6_pointer\pointer.c(97,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\6_pointer\6_pointer\pointer.c(11): warning C4172: 返回局部变量或临时变量的地址: a4
+  6_pointer.vcxproj -> E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\6_pointer\Debug\6_pointer.exe
