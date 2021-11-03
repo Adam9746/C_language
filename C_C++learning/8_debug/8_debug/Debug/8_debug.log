@@ -1,0 +1,3 @@
+﻿  debug.c
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\8_debug\8_debug\debug.c(151,1): warning C4090: “初始化”: 不同的“const”限定符
+  8_debug.vcxproj -> E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\8_debug\Debug\8_debug.exe

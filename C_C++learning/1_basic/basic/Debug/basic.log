@@ -1,0 +1,10 @@
+﻿  mkl_test.c
+E:\softwarelist\Intel_oneAPI_MKL\mkl\2021.4.0\include\mkl_spblas.h(1150,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  basiclearning.c
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\1_basic\basic\basiclearning.c(152,7): warning C4101: “cha”: 未引用的局部变量
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\1_basic\basic\basiclearning.c(153,8): warning C4101: “arr4”: 未引用的局部变量
+  summary.c
+  chosen.c
+  正在生成代码...
+basiclearning.obj : error LNK2005: _main 已经在 mkl_test.obj 中定义
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\1_basic\Debug\basic.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
