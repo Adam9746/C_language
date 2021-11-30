@@ -1,0 +1,9 @@
+﻿  Pointer.c
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(340,12): warning C4090: “函数”: 不同的“const”限定符
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(341,13): warning C4090: “函数”: 不同的“const”限定符
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(342,14): warning C4090: “函数”: 不同的“const”限定符
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(454,1): warning C4305: “初始化”: 从“double”到“float”截断
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(233,8): warning C4101: “arr5”: 未引用的局部变量
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(365,6): warning C4101: “x”: 未引用的局部变量
+E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\2_2_pointer\Pointer.c(232,7): warning C4101: “arr4”: 未引用的局部变量
+  2_2_pointer.vcxproj -> E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\2_2_pointer\Debug\2_2_pointer.exe

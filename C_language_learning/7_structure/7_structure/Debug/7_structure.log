@@ -1,4 +1,0 @@
-﻿  structure.c
-E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\7_structure\7_structure\structure.c(60,6): warning C4101: “student2”: 未引用的局部变量
-E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\7_structure\7_structure\structure.c(59,6): warning C4101: “student1”: 未引用的局部变量
-  7_structure.vcxproj -> E:\applicationdata\VScode_workspace\C_C++_workspace\C_C++learning\7_structure\Debug\7_structure.exe
